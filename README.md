@@ -1,0 +1,2 @@
+# playkosmos-frontend
+Flutter App

@@ -1,0 +1,166 @@
+name: playkosmos_activity
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^1.1.6
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/svg/activity_posters/
+    - assets/flyer_placeholder/
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: fonts/Inter-Bold.ttf
+        - asset: fonts/Inter-Medium.ttf
+        - asset: fonts/Inter-Regular.ttf
+        - asset: fonts/Inter-SemiBold.ttf
+    - family: PassionOne
+      fonts:
+        - asset: fonts/PassionOne-Regular.ttf
+        - asset: fonts/PassionOne-Bold.ttf
+    - family: Bevan
+      fonts:
+        - asset: fonts/Bevan-Regular.ttf
+    - family: Lalezar
+      fonts:
+        - asset: fonts/Lalezar-Regular.ttf
+    - family: BlackHanSans
+      fonts:
+        - asset: fonts/BlackHanSans-Regular.ttf
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+        - asset: fonts/Poppins-SemiBold.ttf
+        - asset: fonts/Poppins-Bold.ttf
+    - family: Oswald
+      fonts:
+        - asset: fonts/Oswald-Regular.ttf
+        - asset: fonts/Oswald-Medium.ttf
+        - asset: fonts/Oswald-SemiBold.ttf
+        - asset: fonts/Oswald-Bold.ttf
+    - family: OleoScript
+      fonts:
+        - asset: fonts/OleoScript-Bold.ttf
+    - family: Teko
+      fonts:
+        - asset: fonts/Teko-Bold.ttf
+        - asset: fonts/Teko-Medium.ttf
+        - asset: fonts/Teko-SemiBold.ttf
+    - family: PTSansNarrow
+      fonts:
+        - asset: fonts/PTSansNarrow-Bold.ttf
+    - family: Akshar
+      fonts:
+        - asset: fonts/Akshar-Bold.ttf
+        - asset: fonts/Akshar-Medium.ttf
+        - asset: fonts/Akshar-SemiBold.ttf
+    - family: SquadaOne
+      fonts:
+        - asset: fonts/SquadaOne-Regular.ttf
+    - family: BlackOpsOne
+      fonts:
+        - asset: fonts/BlackOpsOne-Regular.ttf
+    - family: Play
+      fonts:
+        - asset: fonts/Play-Bold.ttf
+        - asset: fonts/Play-Regular.ttf
+    - family: SairaStencilOne
+      fonts:
+        - asset: fonts/SairaStencilOne-Regular.ttf
+    - family: Cabin
+      fonts:
+        - asset: fonts/Cabin-Bold.ttf
+        - asset: fonts/Cabin-Medium.ttf
+        - asset: fonts/Cabin-Regular.ttf
+        - asset: fonts/Cabin-SemiBold.ttf
+    - family: Bangers
+      fonts:
+        - asset: fonts/Bangers-Regular.ttf
+    - family: Calistoga
+      fonts:
+        - asset: fonts/Calistoga-Regular.ttf
+    - family: Rajdhani
+      fonts:
+        - asset: fonts/Rajdhani-Bold.ttf
+        - asset: fonts/Rajdhani-SemiBold.ttf
+    - family: Lato
+      fonts:
+        - asset: fonts/Lato-Bold.ttf
+        - asset: fonts/Lato-Regular.ttf
+        - asset: fonts/Lato-BoldItalic.ttf
+    - family: SuezOne
+      fonts:
+        - asset: fonts/SuezOne-Regular.ttf
+    - family: Chivo
+      fonts:
+        - asset: fonts/Chivo-Regular.ttf
+    - family: BigshotOne
+      fonts:
+        - asset: fonts/BigshotOne-Regular.ttf
+    - family: Montserrat
+      fonts:
+        - asset: fonts/Montserrat-Bold.ttf
+        - asset: fonts/Montserrat-ExtraBold.ttf
+        - asset: fonts/Montserrat-SemiBold.ttf
+    - family: SourceSansPro
+      fonts:
+        - asset: fonts/SourceSansPro-Bold.ttf
+        # Added newly
+        - asset: fonts/SourceSansPro-Black.ttf
+    - family: Archivo
+      fonts:
+        - asset: fonts/Archivo-Bold.ttf
+        - asset: fonts/Archivo-Black.ttf
+        - asset: fonts/Archivo-ExtraBold.ttf
+        - asset: fonts/Archivo-Medium.ttf
+    - family: IBMPlexSans
+      fonts:
+        - asset: fonts/IBMPlexSans-SemiBold.ttf
+        - asset: fonts/IBMPlexSans-Bold.ttf
+    # Added newly
+    - family: IBMPlexSansCondensed
+      fonts:
+        - asset: fonts/IBMPlexSansCondensed-Bold.ttf
+    - family: Raleway
+      fonts:
+        - asset: fonts/Raleway-Black.ttf
+        - asset: fonts/Raleway-SemiBold.ttf
+    - family: Rubik
+      fonts:
+        - asset: fonts/Rubik-Black.ttf
+        - asset: fonts/Rubik-Bold.ttf
+        - asset: fonts/Rubik-ExtraBold.ttf
+        - asset: fonts/Rubik-Medium.ttf
+    - family: Anton
+      fonts:
+        - asset: fonts/Anton-Regular.ttf
+    - family: Lexend
+      fonts:
+        - asset: fonts/Lexend-Black.ttf
+        - asset: fonts/Lexend-Bold.ttf
