@@ -47,9 +47,13 @@ class FlyerUtils {
   static const String cricket = 'assets/svg/activity_posters/cricket.svg';
   static const String dodgeball = 'assets/svg/activity_posters/dodgeball.svg';
   static const String fistball = 'assets/svg/activity_posters/fistball.svg';
+  static const String floorball = 'assets/svg/activity_posters/floorball.svg';
+  static const String flooorball = 'assets/svg/activity_posters/flooorball.svg';
+  static const String icestaking = 'assets/svg/activity_posters/icestaking.svg';
 
   //----------------Fliers with image that can change-------------------------
   static const String runningCh = 'assets/svg/activity_posters/running_ch.svg';
   static const String bandyCh = 'assets/svg/activity_posters/bandy_ch.svg';
   static const String rugbyCh = 'assets/svg/activity_posters/rugby_ch.svg';
+
 }
