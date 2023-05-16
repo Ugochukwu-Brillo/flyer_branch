@@ -90,4 +90,58 @@ class Fonts {
   static const String markaziText = 'MarkaziText';
   static const String iBMPlexSansCondensed = 'IBMPlexSansCondensed';
   static const String lexend = 'Lexend';
+  static const String anekKannada = 'AnekKannada';
+  static const String yanoneKaffeesatz = 'YanoneKaffeesatz';
+  static const String abrilFatface = 'AbrilFatface';
+  static const String secularOne = 'SecularOne';
+  static const String ubuntu = 'Ubuntu';
+  static const String jost = 'Jost';
+  static const String karla = 'Karla';
+  static const String gemunuLibre = 'GemunuLibre';
+  static const String tradeWinds = 'TradeWinds';
+  static const String doppioOne = 'DoppioOne';
+  static const String bigShouldersText = 'BigShouldersText';
+  static const String radioCanada = 'RadoCanada';
+  static const String francoisOne = 'FrancoisOne';
+  static const String manuale = 'Manuale';
+  static const String alumniSans = 'AlumniSans';
+  static const String katibeh = 'Katibeh';
+  static const String germaniaOne = 'GermaniaOne';
+  static const String notoSans = 'NotoSans';
+  static const String lobster = 'Lobster';
+  static const String bayon = 'Bayon';
+  static const String glory = 'Glory';
+  static const String tapestry = 'Tapestry';
+  static const String heebo = 'Heebo';
+  static const String unbounded = 'Unbounded';
+  static const String titilliumWeb = 'TitilliumWeb';
+  static const String barlow = 'Barlow';
+  static const String dosis = 'Dosis';
+  static const String assistant = 'Assistant';
+  static const String hind = 'Hind';
+  static const String fasterOne = 'FasterOne';
+  static const String neuton = 'Neuton';
+  static const String sairaCondensed = 'SairaCondensed';
+  static const String titanOne = 'TitanOne';
+  static const String tomorrow = 'Tomorrow';
+  static const String kanit = 'Kanit';
+  static const String archivoBlack = 'ArchivoBlack';
+  static const String sofiaSans = 'SofiaSans';
+  static const String Dosis = 'Dosis';
+  static const String rowdies = 'Rowdies';
+  static const String coda = 'Coda';
+  static const String quantico = 'Quantico';
+  static const String bowlbyOne = 'BowlbyOne';
+  static const String bowlbyOneSc = 'BowlbyOneSc';
+  static const String lilitaOne = 'LilitaOne';
+  static const String shrikhand = 'Shrikhand';
+  static const String permanentMarker = 'PermanentMarker';
+  static const String rye = 'Rye';
+  static const String racingSansOne = 'RacingSansOne';
+  static const String coiny = 'Coiny';
+  static const String bubbleGumSans = 'BubbleGumSans';
+
+
+
+
 }

@@ -164,3 +164,198 @@ flutter:
       fonts:
         - asset: fonts/Lexend-Black.ttf
         - asset: fonts/Lexend-Bold.ttf
+    - family: AnekKannada
+      fonts:
+        - asset: fonts/AnekKannada-ExtraBold.ttf
+        - asset: fonts/AnekKannada-Bold.ttf
+    - family: YanoneKaffeesatz
+      fonts:
+        - asset: fonts/YanoneKaffeesatz-Bold.ttf
+    - family: AbrilFatface
+      fonts:
+        - asset: fonts/AbrilFatface-Regular.ttf
+    - family: AbrilFatface
+      fonts:
+        - asset: fonts/SecularOne-Regular.ttf
+    - family: Ubuntu-Medium.tff
+      fonts:
+        - asset: fonts/Ubuntu-Medium.ttf
+    - family: Jost-Black.tff
+      fonts:
+        - asset: fonts/Jost-Black.ttf
+    - family: Karla-ExtraBold.tff
+      fonts:
+        - asset: fonts/Karla-ExtraBold.ttf
+    - family: GemunuLibre-ExtraBold.tff
+      fonts:
+        - asset: fonts/GemunuLibre-ExtraBold.ttf
+    - family: TradeWinds-Regular.tff
+      fonts:
+        - asset: fonts/TradeWinds-Regular.ttf
+    - family: DoppioOne-Regular.tff
+      fonts:
+        - asset: fonts/DoppioOne-Regular.ttf
+    - family: BigShouldersText-Black.tff
+      fonts:
+        - asset: fonts/BigShouldersText-Black.ttf
+    - family: RadioCanada-Bold.tff
+      fonts:
+        - asset: fonts/RadioCanada-Bold.ttf
+    - family: Manuale-ExtraBold.tff
+      fonts:
+        - asset: fonts/Manuale-ExtraBold.ttf
+    - family: kanit-BlackItalic.tff
+      fonts:
+        - asset: fonts/kanit-BlackItalic.ttf
+    - family: kanit-Medium.tff
+      fonts:
+        - asset: fonts/kanit-Medium.ttf
+    - family: kanit-Bold.tff
+      fonts:
+        - asset: fonts/kanit-Bold.ttf
+    - family: AlumniSans-Bold.tff
+      fonts:
+        - asset: fonts/AlumniSans-Bold.ttf
+    - family: AlumniSans-ExtraBold.tff
+      fonts:
+        - asset: fonts/AlumniSans-ExtraBold.ttf
+    - family: Katibeh-Regular.tff
+      fonts:
+        - asset: fonts/Katibeh-Regular.ttf
+    - family: GermaniaOne-Regular.tff
+      fonts:
+        - asset: fonts/GermaniaOne-Regular.ttf
+    - family: NotoSans-Black.tff
+      fonts:
+        - asset: fonts/NotoSans-Black.ttf
+    - family: Lobster-Regular.tff
+      fonts:
+        - asset: fonts/Lobster-Regular.ttf
+    - family: Bayon-Regular.tff
+      fonts:
+        - asset: fonts/Bayon-Regular.ttf
+    - family: Glory-ExtraBold.tff
+      fonts:
+        - asset: fonts/Glory-ExtraBold.ttf
+    - family: Heebo-Bold.tff
+      fonts:
+        - asset: fonts/Heebo-Bold.ttf
+    - family: Tapestry-Regular.tff
+      fonts:
+        - asset: fonts/Tapestry-Regular.ttf
+    - family: Unbounded-Bold.tff
+      fonts:
+        - asset: fonts/Unbounded-Bold.ttf
+    - family: Unbounded-ExtraBold.tff
+      fonts:
+        - asset: fonts/Unbounded-ExtraBold.ttf
+    - family: TitilliumWeb-Black.tff
+      fonts:
+        - asset: fonts/TitilliumWeb-Black.ttf
+    - family: Barlow-Black.tff
+      fonts:
+        - asset: fonts/Barlow-Black.ttf
+    - family: Dosis-ExtraBold.tff
+      fonts:
+        - asset: fonts/Dosis-ExtraBold.ttf
+    - family: Assistant-Bold.tff
+      fonts:
+        - asset: fonts/Assistant-Bold.ttf
+    - family: Hind-Bold.tff
+      fonts:
+        - asset: fonts/Hind-Bold.ttf
+    - family: FasterOne-Regular.tff
+      fonts:
+        - asset: fonts/FasterOne-regular.ttf
+    - family: Poppins-ExtraBold.tff
+      fonts:
+        - asset: fonts/Poppins-ExtraBold.ttf
+    - family: Poppins-Black.tff
+      fonts:
+        - asset: fonts/Poppins-Black.ttf
+    - family: Neuton-ExtraBold.tff
+      fonts:
+        - asset: fonts/Neuton-ExtraBold.ttf
+    - family: SairaCondensed-Black.tff
+      fonts:
+        - asset: fonts/SairaCondensed-Black.ttf
+    - family: TitilliumWeb-Bold.tff
+      fonts:
+        - asset: fonts/TitilliumWeb-Bold.ttf
+    - family: TitanOne-Regular.tff
+      fonts:
+        - asset: fonts/TitanOne-Regular.ttf
+    - family: Tomorrow-ExtraBold.tff
+      fonts:
+        - asset: fonts/Tomorrow-ExtraBold.ttf
+    - family: Tomorrow-Bold.tff
+      fonts:
+        - asset: fonts/Tomorrow-Bold.ttf
+    - family: Kanit-ExtraBold.tff
+      fonts:
+        - asset: fonts/Kanit-ExtraBold.ttf
+    - family: ArchivoBlack-Regular.tff
+      fonts:
+        - asset: fonts/ArchivoBlack-Regular.ttf
+    - family: Manrope-ExtraBold.tff
+      fonts:
+        - asset: fonts/Manrope-ExtraBold.ttf
+    - family: SofiaSans-Black.tff
+      fonts:
+       - asset: fonts/SofiaSans-Black.ttf
+    - family: Dosis-Bold.tff
+      fonts:
+        - asset: fonts/Dosis-Bold.ttf
+    - family: Rowdies-Regular.tff
+      fonts:
+        - asset: fonts/Rowdies-Regular.ttf
+    - family: Rowdies-Bold.tff
+      fonts:
+        - asset: fonts/Rowdies-Bold.ttf
+    - family: Coda-ExtraBold.tff
+      fonts:
+        - asset: fonts/Coda-ExtraBold.ttf
+    - family: Coda-Regular.tff
+      fonts:
+        - asset: fonts/Coda-Regular.ttf
+    - family: Quantico-Bold.tff
+      fonts:
+        - asset: fonts/Quantico-Bold.ttf
+    - family: BowlbyOne-Regular.tff
+      fonts:
+        - asset: fonts/BowlbyOne-Regular.ttf
+    - family: BowlbyOneSC-Regular.tff
+      fonts:
+        - asset: fonts/BowlbyOneSC-Regular.ttf
+    - family: LilitaOne-Regular.tff
+      fonts:
+       - asset: fonts/LilitaOne-Regular.ttf
+    - family: Shrikhand-Regular.tff
+      fonts:
+        - asset: fonts/Shrikhand-Regular.ttf
+    - family: PermanentMarker-Regular.tff
+      fonts:
+        - asset: fonts/PermanentMarker-Regular.ttf
+    - family: Rye-Regular.tff
+      fonts:
+        - asset: fonts/Rye-Regular.ttf
+    - family: Tomorrow-Medium.tff
+      fonts:
+        - asset: fonts/Tomorrow-Medium.ttf
+    - family: RacingSansOne-Regular.tff
+      fonts:
+        - asset: fonts/RacingSansOne-Regular.ttf
+    - family: Coiny-Regular.tff
+      fonts:
+        - asset: fonts/Coiny-Regular.ttf
+    - family: BubblegumSans-Regular.tff
+      fonts:
+        - asset: fonts/BubblegumSans-Regular.ttf
+
+
+
+    
+
+
+
+
